@@ -1,4 +1,4 @@
-import { Navigation } from './routes/navigation';
+import { Navigation } from './routes/Navigation';
 
 function App() {
   return (
@@ -9,3 +9,4 @@ function App() {
 }
 
 export default App;
+ 
